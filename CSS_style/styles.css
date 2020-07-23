@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 150%;
+}
+
+h1 {
+  margin: 100px auto 0 auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 8rem;
+  color: #e36387;
+  line-height: 1;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e36387;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e36387;
+}
+a {
+  color: #e36387;
+  display: inline;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a6dcef;
+  border-width:15px;
+  width: 5%;
+}
+.profile {
+  height: 800px;
+}
+.hello {
+  position: relative;
+  top: 75px;
+}
+
+.helloParagraph {
+  position: relative;
+  top: 75px;
+  line-height: 2;
+  width: 500px;
+  margin: auto;
+
+}
+.firstParagraph {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #e36387;
+  font-weight: normal;
+  position: relative;
+  bottom: 40px;
+}
+.profilePicture {
+  width: 400px;
+  position: relative;
+  top: 40px;
+}
+.topContainer {
+  padding-top: 100px;
+  background-color: #ddf3f5;
+}
+
+.topCloud {
+  position: relative;
+  left: 10%;
+}
+.skills {
+  height: 50%;
+}
+.skill-row {
+  width: 50%;
+  height: 100%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2
+}
+.sapImage {
+  width: 400px;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 0;
+}
+.pythonImage {
+  width: 300px;
+  float: right;
+  margin-bottom: 50px;
+  margin-right: 40px;
+  margin: auto 40px 50px 20px;
+}
+
+.bottomCloud {
+  position: absolute;
+}
+
+.middleContainer {
+
+}
+.buttonContactme {
+  padding: 10px 32px;
+  background-color: #e36387;
+  border: none;
+  color: white;
+  font-size: 30px;
+  border-radius: 20px;
+  cursor: pointer;
+
+}
+
+.contactMe {
+  height: 400px;
+}
+
+.bottomContainer {
+  background-color: #f2aaaa;
+  height: 200px;
+  margin-top: 50px;
+}
+.footerLink {
+  font-size: 2rem;
+  margin-left: 40px;
+  position: relative;
+  top: 30px;
+}
+
+.copyRight {
+  position: relative;
+  top:70px;
+  color: white;
+  display: block;
+}
